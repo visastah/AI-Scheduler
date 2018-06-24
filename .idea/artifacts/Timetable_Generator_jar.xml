@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Timetable Generator:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Timetable_Generator_jar</output-path>
+    <root id="archive" name="Timetable Generator.jar">
+      <element id="module-output" name="Timetable Generator" />
+    </root>
+  </artifact>
+</component>
